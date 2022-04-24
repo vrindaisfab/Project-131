@@ -1,0 +1,29 @@
+.header{
+    color: rgb(255, 0, 149);
+    font-size: 25px;
+    box-shadow: 5px 5px 5px rgb(179, 116, 116);
+    font-weight: 700;
+    
+}
+.header:hover{
+    width: 220px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.link {
+    font-size: 20px;
+    color: rgb(0, 136, 255);
+    background: rgb(207, 168, 130);
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+    box-shadow: 5px 5px 5px rgb(255, 195, 195);
+}
+
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
